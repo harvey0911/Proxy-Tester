@@ -1,5 +1,6 @@
 # Proxy-Tester
-This Python script aims to test the functionality of a list of proxy servers obtained from the Free Proxy List website. The script utilizes the requests library for HTTP requests and the BeautifulSoup library for web scraping.
+
+ While exploring tools like Nmap, I realized the  disclosure of my IP address during scans. Seeking an alternative, I tried proxy chaining .I was in the need of several  functional proxies. This led to the creation of a Python script that automates the testing of proxy servers obtained from online lists. 
 # Dependencies
 pip install requests beautifulsoup4
 # Contributions
